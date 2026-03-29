@@ -13,7 +13,7 @@
 
 ## 🎯 Project Objective
 
-To develop a comprehensive stock analysis system that:
+To develop a comprehensive stock analysis and Prediction system that:
 - **Fetches real-time stock data** from Yahoo Finance API
 - **Scrapes financial data** from web sources using BeautifulSoup
 - **Processes and cleans data** using Pandas
