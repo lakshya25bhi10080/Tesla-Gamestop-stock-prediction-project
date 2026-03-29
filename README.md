@@ -1,38 +1,10 @@
 # Tesla-GameStop-Stock-Analysis-Project
-<h1 align="center">Hi, I'm Shamique Khan 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76E6E&center=true&vCenter=true&width=435&lines=CS+Student+%7C+AI+%26+ML+Explorer;Python+Dev+%7C+Frontend+Learner;Content+Creator+%7C+Always+Learning" alt="Typing SVG" />
-</p>
 
----
 
-# 💫 About Me:
-
-- 🧠 I'm a **Computer Science student** with a strong passion for **Artificial Intelligence, Machine Learning, and Web Development**.
-- 🚀 I love building **fun side projects**, games, and creative tools using **Python** and **web technologies**.
-- 🎥 I'm also a **digital storyteller**, using content creation to simplify tech, share my journey, and empower learners.
-- 🌍 I'm currently learning: `Python for AI`, `Data structures and Algorithms`, and `German (C1 level)`—bridging tech and language!
-
----
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-green?style=for-the-badge)
-
----
-
-# 📊 **Tesla & GameStop Stock Analysis Project**
-
-> A comprehensive financial data analysis and visualization project for CSE coursework under the guidance of **Sukaumar Sir**
-
-**Project Status:** ✅ Complete & Production-Ready  
-**Submission Date:** November 22, 2025  
-**Student Name:** Shamique Khan  
+> A comprehensive financial data analysis and visualization project for AIML coursework 
+ 
+**Student Name:** Lakhya Pareek
+**Registration Number** 25BHI10080
 **Institution:** VIT Bhopal
 
 ---
@@ -88,6 +60,16 @@ This project is a **full-stack financial data analysis application** that demons
 ✅ Illustrates data manipulation and analysis techniques  
 ✅ Creates professional visualizations  
 ✅ Solves authentic problems with financial data  
+
+---
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-green?style=for-the-badge)
 
 ---
 
@@ -725,20 +707,16 @@ This project demonstrates understanding of:
 
 ## 👨‍💻 Contributors
 
-- **Shamique Khan** - Developer & Student
+- **Lakhya Pareek** - Developer & Student
   - VIT Bhopal
   - CSE Student
   - AI & ML Enthusiast
-
-### Guidance
-- **Sukaumar Sir** - Project Mentor and CSE Faculty
 
 ---
 
 ## 🙏 Acknowledgments
 
 Special thanks to:
-- **Sukaumar Sir** for project guidance and mentorship
 - **VIT Bhopal** for providing resources and support
 - **Open-source community** for excellent libraries:
   - pandas, yfinance, BeautifulSoup, Plotly, Matplotlib
@@ -748,16 +726,7 @@ Special thanks to:
 
 ## 📄 License
 
-This project is created for educational purposes as part of CSE coursework.
-
----
-
-## 📞 Contact & Support
-
-**Student:** Shamique Khan  
-**Email:** shamiquekhan@student.vitbhopal.ac.in  
-**Institution:** VIT Bhopal  
-**Project Submission Date:** November 22, 2025
+This project is created for educational purposes as part of AIML coursework.
 
 ---
 
@@ -788,15 +757,9 @@ This project is created for educational purposes as part of CSE coursework.
 
 <div align="center">
 
-### 🎉 Project Completed Successfully! 🎉
-
-**Developed with ❤️ by Shamique Khan**
 
 *"Data tells stories. Let's read them together."*
 
 ---
-
-**Last Updated:** November 22, 2025  
-**Status:** ✅ Production Ready
 
 </div>
