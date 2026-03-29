@@ -3,7 +3,7 @@
 
 > A comprehensive financial data analysis and visualization project for AIML coursework 
  
-**Student Name:** Lakhya Pareek
+**Student Name:** Lakshya Pareek
 **Registration Number** 25BHI10080
 **Institution:** VIT Bhopal
 
@@ -707,7 +707,7 @@ This project demonstrates understanding of:
 
 ## 👨‍💻 Contributors
 
-- **Lakhya Pareek** - Developer & Student
+- **Lakshya Pareek** - Developer & Student
   - VIT Bhopal
   - CSE Student
   - AI & ML Enthusiast
