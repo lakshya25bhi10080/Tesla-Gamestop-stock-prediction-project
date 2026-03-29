@@ -355,6 +355,5 @@ The project not only achieves all stated objectives but exceeds expectations thr
 
 ### ✨ Project Statement Complete ✨
 
-**Ready for Submission to Sir** 🚀
 
 </div>
