@@ -1,17 +1,14 @@
 # 📋 Project Statement
 
-**Student Name:** Shamique Khan  
-**Project Title:** Tesla & GameStop Stock Analysis  
-**Course:** Computer Science Engineering  
-**Mentor:** Sukaumar Sir  
+**Student Name:** Lakshya Pareek 
+**Project Title:** Tesla & GameStop Stock Analysis and Prediction Project 
 **Institution:** VIT Bhopal  
-**Submission Date:** November 23, 2025
 
 ---
 
 ## 📌 Project Overview
 
-This project develops a comprehensive financial data analysis platform that integrates multiple data sources, implements sophisticated data processing pipelines, and generates professional visualizations for stock market analysis. The system specifically analyzes Tesla (TSLA) and GameStop (GME) stocks, demonstrating practical applications of data science, API integration, web scraping, and advanced visualization techniques.
+This project develops a comprehensive financial data analysis and prediction platform that integrates multiple data sources, implements sophisticated data processing pipelines, and generates professional visualizations for stock market analysis. The system specifically analyzes Tesla (TSLA) and GameStop (GME) stocks, demonstrating practical applications of data science, API integration, web scraping, and advanced visualization techniques.
 
 ---
 
@@ -52,7 +49,7 @@ This project addresses these challenges by creating an automated, production-rea
 ✅ Real-time stock data fetching from Yahoo Finance  
 ✅ Web scraping for revenue data using BeautifulSoup  
 ✅ Comprehensive data cleaning and validation  
-✅ Statistical analysis and calculations  
+✅ Machine learning predictions   
 ✅ Six professional visualizations (2 interactive + 4 dashboards)  
 ✅ Comparative analysis between Tesla and GameStop  
 ✅ Price correlation analysis  
@@ -60,14 +57,6 @@ This project addresses these challenges by creating an automated, production-rea
 ✅ Error handling and fallback mechanisms  
 ✅ Complete documentation and pseudocode  
 ✅ 650+ lines of production-grade code  
-
-### What is NOT Included:
-❌ Real-time trading recommendations  
-❌ Machine learning predictions  
-❌ Mobile application  
-❌ Web server deployment  
-❌ Database storage (uses in-memory DataFrames)  
-❌ Authentication/authorization system  
 
 ---
 
@@ -358,25 +347,7 @@ This project serves as a comprehensive learning platform demonstrating:
 This project successfully demonstrates a complete data science pipeline, from data collection and processing to analysis and visualization. The implementation is robust, well-documented, and production-ready, showcasing practical skills essential for a computer science professional in the age of data-driven decision making.
 
 The project not only achieves all stated objectives but exceeds expectations through comprehensive error handling, multiple visualization approaches, and thorough documentation. It serves as an excellent portfolio piece demonstrating practical proficiency in modern data engineering and analysis techniques.
-
----
-
-## 📞 Contact Information
-
-**Student:** Shamique Khan  
-**Email:** shamiquekhan@student.vitbhopal.ac.in  
-**Institution:** VIT Bhopal  
-**Program:** Computer Science Engineering  
-**Mentor:** Sukaumar Sir  
-
----
-
-## 📅 Document Information
-
-**Document Type:** Project Statement  
-**Version:** 1.0  
-**Last Updated:** November 23, 2025  
-**Status:** ✅ Final Submission Ready
+  
 
 ---
 
@@ -384,6 +355,6 @@ The project not only achieves all stated objectives but exceeds expectations thr
 
 ### ✨ Project Statement Complete ✨
 
-**Ready for Submission to Sukaumar Sir** 🚀
+**Ready for Submission to Sir** 🚀
 
 </div>
