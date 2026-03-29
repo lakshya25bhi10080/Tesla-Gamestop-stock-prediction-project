@@ -1,4 +1,4 @@
-# Tesla-GameStop-Stock-Analysis-Project
+# Tesla-GameStop-Stock-Prediction-Project
 
 
 > A comprehensive financial data analysis and visualization project for AIML coursework 
