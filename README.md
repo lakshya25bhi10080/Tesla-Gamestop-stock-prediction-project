@@ -4,7 +4,9 @@
 > A comprehensive financial data analysis and visualization project for AIML coursework 
  
 **Student Name:** Lakshya Pareek
+
 **Registration Number** 25BHI10080
+
 **Institution:** VIT Bhopal
 
 ---
